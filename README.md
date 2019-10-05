@@ -40,3 +40,5 @@ In any case of changing success, the kext cache gets cleared.
 ## Thanks ##
  
 - [netkas](http://forum.netkas.org/index.php/topic,11654.msg34142.html#msg34142)
+
+could you update to 10.14.6
